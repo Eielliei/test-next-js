@@ -1,0 +1,15 @@
+a.link.active {
+    background-color: cyan;
+    padding: 5px 10px;
+    color: black;
+    border-radius: 5px;
+}
+
+nav {
+    padding: 5px;
+    border: 1px solid lightgray;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 5px;
+    align-items: center;
+}
